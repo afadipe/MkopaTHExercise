@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MKopa.ProcessSMS", "MKopa.ProcessSMS\MKopa.ProcessSMS.csproj", "{00E1D9AE-D7D0-41DE-91B1-5223907BD2E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MKopa.App", "MKopa.App\MKopa.App.csproj", "{1429EB25-E285-426B-8614-279BD3923FE3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MKopa.Data", "MKopa.Data\MKopa.Data.csproj", "{B3389962-39D9-420A-975D-B4D7C7D1E01F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mkopa.Core", "Mkopa.Service\Mkopa.Core.csproj", "{85C4BDFE-E80D-4542-BC7A-A3E5788C9B55}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mkopa.Test", "Mkopa.Test\Mkopa.Test.csproj", "{AF8D0214-D174-4DA9-A5B6-ADF4C4893516}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0943455D-ABE0-4B75-9892-0873390D55A6}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00E1D9AE-D7D0-41DE-91B1-5223907BD2E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E1D9AE-D7D0-41DE-91B1-5223907BD2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E1D9AE-D7D0-41DE-91B1-5223907BD2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E1D9AE-D7D0-41DE-91B1-5223907BD2E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1429EB25-E285-426B-8614-279BD3923FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1429EB25-E285-426B-8614-279BD3923FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1429EB25-E285-426B-8614-279BD3923FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1429EB25-E285-426B-8614-279BD3923FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3389962-39D9-420A-975D-B4D7C7D1E01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3389962-39D9-420A-975D-B4D7C7D1E01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3389962-39D9-420A-975D-B4D7C7D1E01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3389962-39D9-420A-975D-B4D7C7D1E01F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85C4BDFE-E80D-4542-BC7A-A3E5788C9B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C4BDFE-E80D-4542-BC7A-A3E5788C9B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C4BDFE-E80D-4542-BC7A-A3E5788C9B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C4BDFE-E80D-4542-BC7A-A3E5788C9B55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8D0214-D174-4DA9-A5B6-ADF4C4893516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8D0214-D174-4DA9-A5B6-ADF4C4893516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8D0214-D174-4DA9-A5B6-ADF4C4893516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8D0214-D174-4DA9-A5B6-ADF4C4893516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58C1B16A-2B44-4EE3-B8FB-2BE5204FC068}
+	EndGlobalSection
+EndGlobal
